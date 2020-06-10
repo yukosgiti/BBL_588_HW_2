@@ -1,3 +1,5 @@
 matplotlib
 numpy
 jupyter
+Pillow
+scikit-learn
